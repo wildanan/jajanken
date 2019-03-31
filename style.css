@@ -83,3 +83,10 @@ body {
     cursor: pointer;
     background:rgb(214, 214, 83);
 }
+
+.info {
+    color:black;
+    font-family: 'Germania One', cursive;
+    text-align: center;
+    font-size: 25px;
+}
